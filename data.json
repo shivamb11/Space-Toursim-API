@@ -1,0 +1,11 @@
+{
+  "name": "Goa Beach Getaway",
+  "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=400&s=1",
+    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323638476.jpg?k=235e047c23f7cff54cbf24ec65bd7a68c0463417126d9994090112f43da853d6&o=&hp=1"
+  ],
+  "price": "Starts from ₹28,000 per person on twin sharing.",
+  "duration": 4,
+  "description": "Relax on the sandy beaches of Goa, enjoy water sports, and explore Portuguese-influenced architecture.",
+  "isFeatured": true
+}
