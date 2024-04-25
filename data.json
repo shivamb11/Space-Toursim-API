@@ -1,11 +1,10 @@
 {
-  "name": "Goa Beach Getaway",
+  "name": "Plutonian Expedition",
   "images": [
-    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=600&h=400&s=1",
-    "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323638476.jpg?k=235e047c23f7cff54cbf24ec65bd7a68c0463417126d9994090112f43da853d6&o=&hp=1"
+    "https://www.nasa.gov/sites/default/files/thumbnails/image/pluto.jpg"
   ],
-  "price": "Starts from ₹28,000 per person on twin sharing.",
-  "duration": 4,
-  "description": "Relax on the sandy beaches of Goa, enjoy water sports, and explore Portuguese-influenced architecture.",
-  "isFeatured": true
+  "price": "Starting at $50,000,000 for a historic visit to the dwarf planet Pluto.",
+  "duration": 180,
+  "description": "Embark on a once-in-a-lifetime journey to the outer reaches of the solar system and explore the enigmatic world of Pluto.",
+  "isFeatured": false
 }
